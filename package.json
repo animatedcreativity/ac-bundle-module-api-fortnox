@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-api-fortnox",
+  "version": "0.0.2",
+  "description": "api/fortnox.js: A module bundled by ac-bundle-module.",
+  "main": "api/fortnox.js",
+  "scripts": {
+    "start": "node api/fortnox.js"
+  },
+  "keywords": [
+    "api/fortnox.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-api-fortnox/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
